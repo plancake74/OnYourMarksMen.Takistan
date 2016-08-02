@@ -38,7 +38,7 @@
 // loadScreen = ".paa";
 
  
-author="SPLAT Squad";
+author="SPLAT Squadron";
 OnLoadName = "On Your Marks, Men!";
 OnLoadMission = "Private contractors have been engaged to liberate Feruz Abad from the grip of terrorists."; 
 onLoadIntro = "The peaceful town of Feruz Abad has been seized by terrorists. Our job is to liberate it!";
